@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c660a561-4a28-4c4e-81ea-66b0776469d4" name="Default Changelist" comment="" />
+    <list default="true" id="c660a561-4a28-4c4e-81ea-66b0776469d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,16 @@
       <updated>1642581774693</updated>
       <workItem from="1642581776395" duration="1748000" />
       <workItem from="1642599959503" duration="2653000" />
+      <workItem from="1642932417364" duration="314000" />
     </task>
+    <task id="LOCAL-00001" summary="1111111&#10;&#10;22222222222">
+      <created>1642932727044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642932727044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -49,6 +60,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
